@@ -1,0 +1,20 @@
+{
+  "name": "landing-page-asincrona",
+  "version": "1.0.0",
+  "description": "Pagina para practicar el asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grigerlord/landing-page-asincrona.git"
+  },
+  "keywords": [],
+  "author": "Griger Ratia <grigerratia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grigerlord/landing-page-asincrona/issues"
+  },
+  "homepage": "https://github.com/Grigerlord/landing-page-asincrona#readme"
+}
